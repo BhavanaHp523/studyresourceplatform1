@@ -1,0 +1,10 @@
+[
+  {
+    "id": "admin-demo-user",
+    "name": "Admin",
+    "email": "admin@studyshare.local",
+    "passwordHash": "admin-demo-salt:8ce301feafb6b23cb66a850a10708b9095cb6e661c9bb6e20a3eb6902f0c4a8bac319fcb7e97fb9cd7fba2fcfd815712cdd5398d401a1bb935f90f14e727d8a4",
+    "role": "admin",
+    "createdAt": "2026-05-18T00:00:00.000Z"
+  }
+]

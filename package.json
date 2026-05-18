@@ -1,0 +1,18 @@
+{
+  "name": "study-resource-sharing-platform",
+  "version": "1.0.0",
+  "description": "Simple platform for students to upload, share, search, and download study resources.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": [
+    "study",
+    "resources",
+    "students",
+    "uploads"
+  ],
+  "author": "",
+  "license": "MIT"
+}
